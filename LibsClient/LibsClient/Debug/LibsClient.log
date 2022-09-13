@@ -1,0 +1,6 @@
+﻿  LibsClient.cpp
+C:\Users\Asus\source\repos\VectorLib\VectorLib\vector.h(38,29): warning C4251: Vector::vec: struct "std::pair<Number,Number>" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\Asus\source\repos\VectorLib\VectorLib\vector.h(25): message : см. объявление "std::pair<Number,Number>"
+  LibsClient.vcxproj -> C:\Users\Asus\source\repos\LibsClient\Debug\LibsClient.exe
+  ..\..\VectorLib\Debug\VectorLib.dll
+  Скопировано файлов: 1.
